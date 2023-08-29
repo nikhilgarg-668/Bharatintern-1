@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\saksh\\Downloads\\calculator-ear-2.2.1-sources.jar",
+        "c:\\Users\\saksh\\Downloads\\android-4.1.1.4.jar",
+        "c:\\Users\\saksh\\Downloads\\android-2.1.2.jar"
+    ]
+}
